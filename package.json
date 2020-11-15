@@ -1,0 +1,30 @@
+{
+  "name": "fashona-code",
+  "version": "1.0.0",
+  "description": "ecommerce platform",
+  "main": "index.js",
+  "scripts": {
+    "dev-server": "nodemon index"
+   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m90khan/Fashona-Full-Stack.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "shop",
+    "onlineshop",
+    "store",
+    "clothing"
+  ],
+  "author": "KhanX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m90khan/Fashona-Full-Stack/issues"
+  },
+  "homepage": "https://github.com/m90khan/Fashona-Full-Stack#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
